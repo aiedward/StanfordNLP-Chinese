@@ -5,7 +5,7 @@ I use nltk and langdetect and define simple functions to import easily instead o
 
 First: Java is necessary to run all these programs.
 
-# Install Java Development Kit
+## Install Java Development Kit
 
 https://www.ntu.edu.sg/home/ehchua/programming/howto/JDK_HowTo.html 
 
@@ -15,7 +15,7 @@ javac -version
 Download Java SE
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
-# Set up root directory
+## Set up root directory
 
 In my project, I set up my working directory to be
 
@@ -23,7 +23,7 @@ In my project, I set up my working directory to be
 
 Unzip all the following files in this folder.
 
-# Install Stanford NLP Chinese Segmenter
+## Install Stanford NLP Chinese Segmenter
 
 The system requires Java 1.8+ to be installed.
 
@@ -37,7 +37,7 @@ So also download the previous version or 2015-12-09, which has it included, or f
 
 Then copy 'slf4j-api.jar' and ‘slf4j-simple.jar’ to the newest version root folder, and point to it manually when running.
 
-# Install Stanford NLP Chinese Part-Of-Speech (POS) Tagger
+## Install Stanford NLP Chinese Part-Of-Speech (POS) Tagger
 
 The system requires Java 1.8+ to be installed.
 
@@ -45,7 +45,7 @@ The system requires Java 1.8+ to be installed.
 https://nlp.stanford.edu/software/stanford-postagger-full-2017-06-09.zip
 Unzip at ~/Stanford NLP/
 
-# Install Stanford NLP Chinese Parser
+## Install Stanford NLP Chinese Parser
 
 The system requires Java 1.8+ to be installed.
 
@@ -56,7 +56,7 @@ https://nlp.stanford.edu/software/stanford-parser-full-2017-06-09.zip
 
 Unzip at ~/Stanford NLP/
 
-# Python setup environment
+## Python setup environment
 
 After this, place StanfordNLP.py in any folder you like and do:
 
