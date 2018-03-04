@@ -10,9 +10,11 @@ First: Java is necessary to run all these programs.
 https://www.ntu.edu.sg/home/ehchua/programming/howto/JDK_HowTo.html 
 
 To see if previously installed
+
 javac -version
 
 Download Java SE
+
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 ## Set up root directory
@@ -28,7 +30,9 @@ Unzip all the following files in this folder.
 The system requires Java 1.8+ to be installed.
 
 https://nlp.stanford.edu/software/segmenter.shtml
-Download 	 Stanford Word Segmenter version 3.8.0
+
+Download Stanford Word Segmenter version 3.8.0
+
 https://nlp.stanford.edu/software/stanford-segmenter-2017-06-09.zip
 
 Unzip at ~/Stanford NLP/
@@ -41,8 +45,12 @@ Then copy 'slf4j-api.jar' and ‘slf4j-simple.jar’ to the newest version root 
 
 The system requires Java 1.8+ to be installed.
 
-     Download full Stanford Tagger version 3.8.0
+https://nlp.stanford.edu/software/tagger.shtml
+
+Download full Stanford Tagger version 3.8.0
+
 https://nlp.stanford.edu/software/stanford-postagger-full-2017-06-09.zip
+
 Unzip at ~/Stanford NLP/
 
 ## Install Stanford NLP Chinese Parser
@@ -51,7 +59,8 @@ The system requires Java 1.8+ to be installed.
 
 https://nlp.stanford.edu/software/lex-parser.shtml 
 
-Download 	 Stanford Parser version 3.8.0
+Download Stanford Parser version 3.8.0
+
 https://nlp.stanford.edu/software/stanford-parser-full-2017-06-09.zip 
 
 Unzip at ~/Stanford NLP/
