@@ -11,7 +11,7 @@ https://www.ntu.edu.sg/home/ehchua/programming/howto/JDK_HowTo.html
 
 To see if previously installed
 
-javac -version
+`javac -version`
 
 Download Java SE
 
@@ -21,7 +21,7 @@ http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 In my project, I set up my working directory to be
 
-~/Stanford NLP/
+`~/Stanford NLP/`
 
 Unzip all the following files in this folder.
 
@@ -67,7 +67,7 @@ Unzip at ~/Stanford NLP/
 
 ## Python setup environment
 
-After this, place StanfordNLP.py in any folder you like and do:
+After this, place StanfordNLP.py in any folder you like (for example: ~/PersonalLibraries) and do:
 
 ```
 import os.path
