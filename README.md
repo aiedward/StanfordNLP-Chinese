@@ -69,15 +69,12 @@ Unzip at ~/Stanford NLP/
 
 After this, place StanfordNLP.py in any folder you like and do:
 
+```
 import os.path
-
 import sys
-
 PersonalLibraries_path = os.path.join(os.path.expanduser('~'), 'PersonalLibraries')
-
 sys.path.append(os.path.abspath(PersonalLibraries_path))
-
 import StanfordNLP
-
-
+```
+ 
 Now we can freely call the methods in this library and segment Chinese text from python.
